@@ -1,0 +1,10 @@
+Added Component: Designator=J3(铜柱定位孔)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(铜柱定位孔)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(铜柱定位孔)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=IV18InCase Member=Component J3 定位孔
+Added Member To Class: ClassName=IV18InCase Member=Component J4 定位孔
+Added Member To Class: ClassName=IV18InCase Member=Component J5 定位孔
+Added Room: Name=IV18InCase
